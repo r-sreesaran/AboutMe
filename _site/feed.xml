@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The unsung Developer</title>
+    <description>A Blog to share my experience</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 May 2018 07:54:44 +0000</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 07:54:44 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.0</generator>
+    
+      <item>
+        <title>Introduction to Jekyll</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2018-05/IntroductionToJekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2018-05/IntroductionToJekyll</guid>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>

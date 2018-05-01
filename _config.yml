@@ -1,0 +1,47 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: The unsung Developer
+email: r.sreesaran@gmail.com
+description: A Blog to share my experience 
+url: https://r-sreesaran.github.io/AboutMe 
+keywords: ["Java", "Scala", "Python", "MachineLearning", "Docker"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Kolatta/India
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Srag
+  avatar: catalyst.png
+  job: "SDET"
+  bio: "A Engineer by choice."
+  email: r.sreesaran@gmail.com
+  disqus-shortname: srag
+  twitter: r_sreesaran 
+  github: r-sreesaran 
+  stackoverflow: 2092392/sree   
+  linkedin: sreesaran-raghu-b24a8a23 
+  instagram: sreesaran
+  
